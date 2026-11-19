@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+calibration-input.json
+calibration-results.json
+calibration.xlsx
+calibration.png
+calibration-results.docx
